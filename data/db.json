@@ -1,0 +1,309 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Casio DW-291HX-1AVDF",
+      "price": 1579000,
+      "description": "Mẫu Casio DW-291HX-1AVDF mặt số vuông điện tử hiện thị đa chức năng, thiết kế dây vỏ nhựa nổi bật với khả năng chịu nước lên đến 20atm.",
+      "image": "assets/img/product/casio/dongho-casio-1.jpg",
+      "instock": 0,
+      "size": [
+        38,
+        42
+      ]
+    },
+    {
+      "id": 2,
+      "name": "G-Shock GA-B2100-1A1DR",
+      "price": 5280000,
+      "description": "Mẫu G-Shock GA-B2100-1A1DR máy pin với phiên bản Solar (năng lượng ánh sáng), điểm nhấn nổi bật với tính Bluetooth có khả năng kết nối với điện thoại thông minh.",
+      "image": "assets/img/product/casio/dongho-casio-2.jpg",
+      "instock": 0,
+      "size": [
+        45
+      ]
+    },
+    {
+      "id": 3,
+      "name": "G-Shock GA-2000S-1ADR",
+      "price": 4276000,
+      "description": "Mẫu G-Shock GA-2000S-1ADR phiên bản cá tính với thiết kế dây vỏ nhựa chịu va đập phối tone đen, cùng với khả năng chống nước lên đến 20atm, mặt số kim chỉ kết hợp điện tử hiện thị đa chức năng.",
+      "image": "assets/img/product/casio/dongho-casio-3.jpg",
+      "instock": 9,
+      "size": [
+        38,
+        42
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Casio A158WA-1DF – Nam – Quartz",
+      "price": 856000,
+      "description": "Mẫu đồng hồ nam Casio A158WA-1DF với kiểu dáng vuông huyền thoại, mặt số điện tử hiện thị nhiều chức năng tiện ích cho người dùng, vỏ máy cùng dây đeo kim loại màu bạc tạo nên sự chắc chắn mạnh mẽ.",
+      "image": "assets/img/product/casio/dongho-casio-4.jpg",
+      "instock": 0,
+      "size": [
+        38,
+        42
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Citizen Tsuyosa NJ0154-80H",
+      "price": 12600000,
+      "description": "Mẫu Citizen NJ0154-80H phiên bản mặt kính chất liệu kính Sapphire với kích thước nam tính 40mm, kết hợp cùng mẫu dây đeo kim loại dây vàng demi phong cách thời trang sang trọng.",
+      "image": "assets/img/product/citizen/dongho-citizen-1.jpg",
+      "instock": 12,
+      "size": [
+        40
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Citizen BI5072-01A",
+      "price": 3685000,
+      "description": "Ẩn chứa dưới vẻ ngoài giản dị của mẫu Citizen BI5072-01A với mẫu dây da lịch lãm tông màu nâu, các chi tiết vạch số tạo hình mỏng chứa đựng sự tinh tế sang trọng khi được bao phủ tông màu vàng nổi bật.",
+      "image": "assets/img/product/citizen/dongho-citizen-2.jpg",
+      "instock": 10,
+      "size": [
+        40,
+        42
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Citizen NJ0153-82X",
+      "price": 13385000,
+      "description": "Mẫu Citizen NJ0153-82X phiên bản mạ vàng với vẻ ngoài sang trọng, cùng với thiết kế kim chỉ cùng cọc vạch số tạo hình dày dặn phủ dạ quang trên nền mặt số được phối tone màu đỏ.",
+      "image": "assets/img/product/citizen/dongho-citizen-3.jpg",
+      "instock": 7,
+      "size": [
+        40
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Citizen Eco-Drive AW0081-89L",
+      "price": 6685000,
+      "description": "Mẫu Citizen NJ0153-82X phiên bản mạ vàng với vẻ ngoài sang trọng, cùng với thiết kế kim chỉ cùng cọc vạch số tạo hình dày dặn phủ dạ quang trên nền mặt số được phối tone màu đỏ.",
+      "image": "assets/img/product/citizen/dongho-citizen-4.jpg",
+      "instock": 16,
+      "size": [
+        42
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Casio MTP-V001L-1BUDF",
+      "price": 648000,
+      "description": "Mẫu Casio MTP-V001L-1BUDF phiên bản dây da đen có vân lịch lãm, thiết kế đơn giản 3 kim trên mặt số size 38mm, nền cọc số học trò kiểu dáng mỏng trẻ trung.",
+      "image": "assets/img/product/casio2/dongho-casio2-1.jpg",
+      "instock": 9,
+      "size": [
+        40
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Casio MTP-1381L-9AVDF",
+      "price": 1607000,
+      "description": "Đồng hồ nam Casio MTP-1381L-9AVDF với kiểu dáng thời trang dành cho nam, kim chỉ và vạch số to rõ nổi bật trên mặt đồng hồ tròn to nam tính, phối cùng với dây đeo bằng da nâu lịch lãm.",
+      "image": "assets/img/product/casio2/dongho-casio2-2.jpg",
+      "instock": 9,
+      "size": [
+        40
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Casio MTP-1308L-1AVDF",
+      "price": 1243000,
+      "description": "Đồng hồ Casio MTP-1308L-1AVDF có vỏ kim loại được mạ bạc tinh xảo quanh nền đen mặt số, kim chỉ và vạch số được phủ phản quang nổi bật, lịch ngày ở vị trí 3h tinh tế, dây đeo da vân đen nam tính lịch lãm.",
+      "image": "assets/img/product/casio2/dongho-casio2-3.jpg",
+      "instock": 10,
+      "size": [
+        40
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Seiko 5 Sports SRPK17K1",
+      "price": 13170000,
+      "description": "Đồng hồ Seiko 5 Sports 55th Anniversary Limited Edition SRPK17K1 (phiên bản giới hạn kỷ niệm 55 năm) phong cách thể thao cổ điển, sử dụng bộ máy cơ in-house 4R36 trữ cót 41 giờ. Trang bị kính Hardlex Crystal độc quyền có độ chịu lực tốt hơn so với kính cứng thông thường. Dây đeo Twist-O-Flex độc đáo vô cùng bền bỉ. Đồng hồ giới hạn số lượng chỉ 40 chiếc phân phối chính hãng tại Việt Nam.",
+      "image": "assets/img/product/casio2/dongho-casio2-4.jpg",
+      "instock": 9,
+      "size": [
+        40
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Orient SK RA-AA0B02R19B",
+      "price": 7800000,
+      "description": "Mẫu Orient RA-AA0B02R19B phiên bản mạ vàng với mẫu kim chỉ nổi bật trên mặt số size 41.7mm đi kèm thiết kế 2 núm vặn điều chỉnh, vỏ máy kim loại mạ bạc kiểu dáng dày dặn của bô máy cơ.",
+      "image": "assets/img/product/casio2/dongho-casio2-5.jpg",
+      "instock": 9,
+      "size": [
+        40
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Casio World Time AE-1200WHD-1AVDF",
+      "price": 1373000,
+      "description": "Đồng hồ nam Casio AE1200WHD có mặt đồng hồ vuông to với phong cách thể thao, mặt số điện tử với những tính năng hiện đại tiện dụng, kết hợp với dây đeo bằng kim loại đem lại vẻ mạnh mẽ cá tính dành cho phái nam.",
+      "image": "assets/img/product/casio2/dongho-casio2-6.jpg",
+      "instock": 10,
+      "size": [
+        40
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Orient RA-AC0F08G10B",
+      "price": 8960000,
+      "description": "Mẫu Orient RA-AC0F08G10B phiên bản mạ vàng trên phần kim chỉ cùng nền cọc số, thiết kế trẻ trung với phần dây đeo vàng demi.",
+      "image": "assets/img/product/orient/dongho-orient-1.jpg",
+      "instock": 9,
+      "size": [
+        40
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Orient RA-AB0E10S19B",
+      "price": 4340000,
+      "description": "Mẫu Orient RA-AB0E10S19B phiên bản cọc vạch số lẫn chi tiết kim chỉ được mạ vàng sang trọng trên nền mặt số size 39mm",
+      "image": "assets/img/product/orient/dongho-orient-2.png",
+      "instock": 9,
+      "size": [
+        39
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Orient Caballero FAG00004D0",
+      "price": 8050000,
+      "description": "Mẫu Orient FAG00004D0 mang lại cho phái mạnh một phong cách lịch lãm nổi bật trên nền mặt số xanh tông màu trẻ trung với ô chân kính phô ra 1 phần trải nghiệm của bộ máy cơ với kiểu thiết kế độc đáo đầy nam tính.",
+      "image": "assets/img/product/orient/dongho-orient-3.jpg",
+      "instock": 10,
+      "size": [
+        43
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Orient Star Contemporary Limited",
+      "price": 21960000,
+      "description": "Đồng hồ Orient Star Contemporary Limited Edition RE-AT0015L00B là phiên bản giới hạn có khắc số thứ thự / tổng số 600 chiếc phát hành toàn cầu.",
+      "image": "assets/img/product/orient/dongho-orient-4.jpg",
+      "instock": 10,
+      "size": [
+        39
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Orient Star Skeleton RE-AV0120L00B",
+      "price": 28400000,
+      "description": "Mẫu Orient Star Skeleton RE-AV0120L00B được sản xuất giới hạn chỉ có 900 chiếc trên toàn thế giới. Trong đó có 300 chiếc bản nội địa và 600 chiếc bản Quốc tế, thu hút với kiểu thiết kế Skeleton độc đáo trên nền mặt số.",
+      "image": "assets/img/product/orient/dongho-orient-5.jpg",
+      "instock": 0,
+      "size": [
+        40
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Orient Star Skeleton – RE-AV0114E00B",
+      "price": 24880000,
+      "description": "Mẫu Orient RE-AV0114E00B phiên bản Orient Start Skeleton lấy cảm hứng từ bộ phim điện ảnh Joker, với thiết kế lộ cơ độc đáo, có tính toán để mặt số đồng hồ trông như mặt cười của gã hề Joker.",
+      "image": "assets/img/product/orient/dongho-orient-6.jpg",
+      "instock": 10,
+      "size": [
+        40
+      ]
+    }
+  ],
+  "users": [
+    {
+      "name": "Nguyễn Thanh Tùng",
+      "phone": "0702906699",
+      "address": "58/27 Thạch Lam, Phú Thạnh, quận Tân Phú",
+      "email": "thanhtungnguyen9911@gmail.com",
+      "password": "7509196c2506eafd4a3ca1a5d8fe18ed",
+      "id": 1
+    },
+    {
+      "name": "Nguyễn thanh tung",
+      "address": "tp Hcm",
+      "phone": "0702906698",
+      "email": "tung@gmail.com",
+      "password": "ae0175a595fb857e59697f57d23185a2",
+      "id": 2
+    },
+    {
+      "name": "tùng",
+      "phone": "0702906697",
+      "address": "HCM",
+      "email": "tung@gmail.com",
+      "password": "ae0175a595fb857e59697f57d23185a2",
+      "id": 3
+    },
+    {
+      "name": "Ti",
+      "phone": "012345678",
+      "address": "An giang",
+      "email": "ti393939@gamil.com",
+      "password": "ae0175a595fb857e59697f57d23185a2",
+      "id": 4
+    }
+  ],
+  "order": [
+    {
+      "name": "Nguyễn thanh tung",
+      "address": "tp Hcm",
+      "phone": "0702906698",
+      "email": "tung@gmail.com",
+      "note": "giao sáng",
+      "product": [
+        {
+          "masp": 2,
+          "quantity": 5
+        }
+      ],
+      "total": 26400000,
+      "id": 1
+    },
+    {
+      "name": "tùng",
+      "phone": "0702906697",
+      "address": "HCM",
+      "email": "tung@gmail.com",
+      "note": "",
+      "product": [
+        {
+          "masp": 7,
+          "quantity": 3
+        }
+      ],
+      "total": 40155000,
+      "id": 2
+    },
+    {
+      "name": "Ti",
+      "phone": "012345678",
+      "address": "An giang",
+      "email": "ti393939@gamil.com",
+      "note": "",
+      "product": [
+        {
+          "masp": 3,
+          "quantity": 1
+        }
+      ],
+      "total": 4276000,
+      "id": 3
+    }
+  ]
+}
